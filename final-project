@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Lauren's Programming Portfolio - Main Page</title>
+    </head>
+    <style>
+            body {background-color: rgb(220, 215, 175) }
+            
+            h1 {color: rgb(84, 123, 100) ;
+            text-align: center}
+            
+            p {color: rgb(84, 123, 100) ;
+            text-align: center}
+            
+            
+            #banner {  
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+                width: 50% }
+            
+            table.center {
+                margin-left: auto; 
+                margin-right: auto; }            
+        </style>  
+    <body>
+        
+<img src="banner.png" id="banner">
+
+<table width="800" class="center">
+<thead>
+<tr>
+<td align="center"> <a href="index.html"> <img src="home.png" width="200"> </a> </td>
+<td align="center"> <a href="js.html"> <img src="javascript.png" width="200"> </a> </td>
+<td align="center"> <a href="apps.html"> <img src="apps.png" width="200"> </a> </td>
+<td align="center"> <a href="aboutme.html"> <img src="aboutme.png" width="200"> </a> </td>
+</tr>
+</thead>
+</table>
+
+<h1>Final Project</h1>
+
+<p>This is my Final Project from my CSC106 course!</p>
+        
+<table class="center">
+    <tr>
+        <th></th>
+        <th></th>
+        
+    </tr>
+    <tr>
+    <td align="center"><a href="https://www.khanacademy.org/computer-programming/five-nights-at-freddys/5905004820217856">Five-Nights-At-Freddys</a>
+    <script src="https://www.khanacademy.org/computer-programming/five-nights-at-freddys/5905004820217856/embed.js?editor=no&buttons=no&author=no&embed=yes"></script> 
+        
+    <td align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/IXWTVA1myGk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></script>
+    </tr>
+    
+<p> </p>
+    </body>
+</html>
